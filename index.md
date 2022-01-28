@@ -15,7 +15,7 @@ carousels:
     - image: /assets/img/slider/img4.jpg
     - image: /assets/img/slider/img5.jpg
     - image: /assets/img/slider/img6.jpg
-    - image: /assets/img/slider/img7.png
+    - image: /assets/img/slider/img7.jpg
 ---
 
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}
